@@ -7,7 +7,7 @@ quick access to bch wallet
  
  Make sure developer mode is turned on
 
- ```load unpack```
+ click```load unpack```
  
  select ```psf-bch-ext```
 
