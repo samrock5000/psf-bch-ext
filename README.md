@@ -1,4 +1,7 @@
 # psf-bch-ext
+
+Only works in chrome/brave
+
 quick access to bch wallet
 
  ```git clone https://github.com/samrock5000/psf-bch-ext```
