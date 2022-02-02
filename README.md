@@ -1,6 +1,6 @@
 # psf-bch-ext
 
-Only works in chrome/brave
+Only works in chrome/brave desktop/laptop
 
 quick access to bch wallet
 
